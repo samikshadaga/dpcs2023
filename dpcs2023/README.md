@@ -1,2 +1,1 @@
-git remote add origin https://github.com/samikshadaga/dpcs2023-1.git
-git branch -M main
+This is my repository for DP Computer Science 2021-2023
